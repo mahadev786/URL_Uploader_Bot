@@ -13,4 +13,4 @@ class Config(object):
 
     DOWNLOAD_LOCATION = "app//DOWNLOADS//" # The download location for users. (Don't change anything in this field!)
 
-    LOG_CHANNAL = -1001565287482
+    LOG_CHANNAL = "-1001565287482"
